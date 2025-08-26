@@ -10,10 +10,18 @@ I help maintain a couple of Flutter packages and projects, but the ones that I a
 
 # Games
 
-<img width="140" height="140" src="./images/games/gd_icon.png" />
-<img width="140" height="140" src="./images/games/mine_cart_operator_icon.png" />
+<table>
+    <tr>
+        <td>
+            <img width="140" height="140" src="./images/games/gd_icon.png" />
+        </td>
+        <td>
+            <img width="140" height="140" src="./images/games/mine_cart_operator_icon.png" />
+        </td>
+    </tr>
+</table>
 
-I also create games under [Cherry Bit Studios](https://cherrybit.studio/), some are free, and some are paid, but no game will ever rely in predatory monetisation methods!
+I create games under [Cherry Bit Studios](https://cherrybit.studio/), some are free, and some are paid, but no game will ever rely in predatory monetisation methods!
 
 Check all of them on my [web site](https://cherrybit.studio/games/)!
 
@@ -25,7 +33,7 @@ Check out these amazing sponsors that support my work!
     <tbody>
         <tr>
             <td align="center" style="border: 1px solid black">
-                <a href="https://invertase.io/"><img src="./images/sponsors/invertase.jpeg" width="225"/> Invertase </a>
+                <a href="https://invertase.io/"><img src="./images/sponsors/invertase.jpeg" width="225"/> <br /> Invertase </a>
             </td>
         </tr>
     </tbody>
