@@ -13,10 +13,12 @@ I help maintain a couple of Flutter packages and projects, but the ones that I a
 <table>
     <tr>
         <td>
-            <img width="140" height="140" src="./images/games/gd_icon.png" />
+            <img width="140" height="140" src="./images/games/gd_icon.png" /><br />
+            <a target="_blank" href="https://cherrybit.studio/gravedigger-doug/">Gravedigger Doug</a>
         </td>
         <td>
-            <img width="140" height="140" src="./images/games/mine_cart_operator_icon.png" />
+            <img width="140" height="140" src="./images/games/mine_cart_operator_icon.png" /><br />
+            <a target="_blank" href="https://cherrybit.studio/mine-cart-operator/">Mine Cart Operator</a>
         </td>
     </tr>
 </table>
