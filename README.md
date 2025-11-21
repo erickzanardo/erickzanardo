@@ -20,6 +20,10 @@ I help maintain a couple of Flutter packages and projects, but the ones that I a
             <img width="140" height="140" src="./images/games/mine_cart_operator_icon.png" /><br />
             <a target="_blank" href="https://cherrybit.studio/mine-cart-operator/">Mine Cart Operator</a>
         </td>
+        <td>
+            <img width="140" height="140" src="./images/games/mine_cat_digger.png" /><br />
+            <a target="_blank" href="https://cherrybit.studio/mine-cat-digger/">Mine Cat Digger</a>
+        </td>
     </tr>
 </table>
 
