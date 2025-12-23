@@ -25,7 +25,7 @@ I help maintain a couple of Flutter packages and projects, but the ones that I a
             <a target="_blank" href="https://cherrybit.studio/mine-cat-digger/">Mine Cat Digger</a>
         </td>
         <td>
-            <img width="140" height="140" src="./images/games/pixelado.png.png" /><br />
+            <img width="140" height="140" src="./images/games/pixelado.png" /><br />
             <a target="_blank" href="https://cherrybit.studio/pixelado/">Pixelado</a>
         </td>
     </tr>
